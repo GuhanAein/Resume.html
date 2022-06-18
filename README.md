@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>Guhan's Resume</title>
 <meta charset="UTF-8">
